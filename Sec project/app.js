@@ -68,4 +68,4 @@ if (f === "1") {
     alert("You've exited the program");
 }
 
-alert("🅼🅰🆁🅺🆂🅷🅴🅴🆃" + "\n" + "Maths: " + g + "\n" + "Chemistry: " + h + "\n" + "Physics: " + i + "\n" + "English: " + j + "\n" + "Urdu: " + k + "\n" + "Total Marks: " + n + "/600" + "\n" + "Percentage: " + m + "%")
+alert("🅼🅰🆁🅺🆂🅷🅴🅴🆃" + "\n"+ "\n" + "Maths: " + g + "\n" + "Chemistry: " + h + "\n" + "Physics: " + i + "\n" + "English: " + j + "\n" + "Urdu: " + k + "\n" + "Total Marks: " + n + "/600" + "\n" + "Percentage: " + m + "%")
