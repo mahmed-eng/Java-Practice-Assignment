@@ -11,7 +11,7 @@ if (f === "1") {
     if (g >= 33) {
         alert("You've Passed this Subject");
 
-    } else {
+    } else { 
         alert("You havent cleared")
     }
 
@@ -63,9 +63,8 @@ if (f === "1") {
     } else {
         alert("Alas! You've Failed")
     }
-
+  alert("🅼🅰🆁🅺🆂🅷🅴🅴🆃" + "\n" + "\n" + "Maths: " + g + "\n" + "Chemistry: " + h + "\n" + "Physics: " + i + "\n" + "English: " + j + "\n" + "Urdu: " + k + "\n" + "Total Marks: " + n + "/600" + "\n" + "Percentage: " + m + "%")
 } else {
     alert("You've exited the program");
 }
 
-alert("🅼🅰🆁🅺🆂🅷🅴🅴🆃" + "\n"+ "\n" + "Maths: " + g + "\n" + "Chemistry: " + h + "\n" + "Physics: " + i + "\n" + "English: " + j + "\n" + "Urdu: " + k + "\n" + "Total Marks: " + n + "/600" + "\n" + "Percentage: " + m + "%")
