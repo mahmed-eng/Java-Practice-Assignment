@@ -7,11 +7,16 @@ if (f === "1") {
     var e = [a, b, c, d]
     alert('Array becomes: ' + e)
 } else if (f === "2") {
+    var s = prompt("Enter Your Name: ")
+    alert("Name: " + s)
+    var p = prompt("Enter Your Roll No: ")
+    alert("Rollno: " + p)
+
     var g = +prompt("Enter Your Maths Marks: ");
     if (g >= 33) {
         alert("You've Passed this Subject");
 
-    } else { 
+    } else {
         alert("You havent cleared")
     }
 
@@ -63,8 +68,11 @@ if (f === "1") {
     } else {
         alert("Alas! You've Failed")
     }
-  alert("🅼🅰🆁🅺🆂🅷🅴🅴🆃" + "\n" + "\n" + "Maths: " + g + "\n" + "Chemistry: " + h + "\n" + "Physics: " + i + "\n" + "English: " + j + "\n" + "Urdu: " + k + "\n" + "Total Marks: " + n + "/600" + "\n" + "Percentage: " + m + "%")
+
+    alert("🅼🅰🆁🅺🆂🅷🅴🅴🆃" + "\n" + "\n" + "Name: " + s + "\n" + "Roll no: " + p + "\n" + "Maths: " + g + "\n" + "Chemistry: " + h + "\n" + "Physics: " + i + "\n" + "English: " + j + "\n" + "Urdu: " + k + "\n" + "Total Marks: " + n + "/600" + "\n" + "Percentage: " + m + "%")
 } else {
+
+
+
     alert("You've exited the program");
 }
-
